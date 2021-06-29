@@ -1,0 +1,14 @@
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\bin\Debug\netcoreapp3.1\Imobiliaria.Types.deps.json
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\bin\Debug\netcoreapp3.1\Imobiliaria.Types.dll
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\bin\Debug\netcoreapp3.1\Imobiliaria.Types.pdb
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\bin\Debug\netcoreapp3.1\Imobiliaria.DataAccess.dll
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\bin\Debug\netcoreapp3.1\Imobiliaria.DataBase.dll
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\bin\Debug\netcoreapp3.1\Imobiliaria.DataAccess.pdb
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\bin\Debug\netcoreapp3.1\Imobiliaria.DataBase.pdb
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\obj\Debug\netcoreapp3.1\Imobiliaria.Types.csprojAssemblyReference.cache
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\obj\Debug\netcoreapp3.1\Imobiliaria.Types.AssemblyInfoInputs.cache
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\obj\Debug\netcoreapp3.1\Imobiliaria.Types.AssemblyInfo.cs
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\obj\Debug\netcoreapp3.1\Imobiliaria.Types.csproj.CoreCompileInputs.cache
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\obj\Debug\netcoreapp3.1\Imobiliaria.Types.csproj.CopyComplete
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\obj\Debug\netcoreapp3.1\Imobiliaria.Types.dll
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Types\obj\Debug\netcoreapp3.1\Imobiliaria.Types.pdb

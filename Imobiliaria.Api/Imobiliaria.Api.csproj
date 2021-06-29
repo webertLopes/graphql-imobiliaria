@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="graphiql" Version="1.2.0" />
+    <PackageReference Include="GraphQL" Version="2.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Imobiliaria.DataAccess\Imobiliaria.DataAccess.csproj" />
+    <ProjectReference Include="..\Imobiliaria.DataBase\Imobiliaria.DataBase.csproj" />
+    <ProjectReference Include="..\Imobiliaria.Types\Imobiliaria.Types.csproj" />
+    <ProjectReference Include="..\Imobiliaria.Utilities\Imobiliaria.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

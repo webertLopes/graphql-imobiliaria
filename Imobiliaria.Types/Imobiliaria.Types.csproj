@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GraphQL" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Imobiliaria.DataAccess\Imobiliaria.DataAccess.csproj" />
+    <ProjectReference Include="..\Imobiliaria.DataBase\Imobiliaria.DataBase.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Imobiliaria.DataBase">
+      <HintPath>..\Imobiliaria.DataBase\bin\Debug\netcoreapp2.1\Imobiliaria.DataBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

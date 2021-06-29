@@ -1,0 +1,8 @@
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\bin\Debug\netcoreapp3.1\Imobiliaria.Utilities.deps.json
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\bin\Debug\netcoreapp3.1\Imobiliaria.Utilities.dll
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\bin\Debug\netcoreapp3.1\Imobiliaria.Utilities.pdb
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\obj\Debug\netcoreapp3.1\Imobiliaria.Utilities.AssemblyInfoInputs.cache
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\obj\Debug\netcoreapp3.1\Imobiliaria.Utilities.AssemblyInfo.cs
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\obj\Debug\netcoreapp3.1\Imobiliaria.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\obj\Debug\netcoreapp3.1\Imobiliaria.Utilities.dll
+C:\Users\137054\Desktop\POC\Imobiliaria\Imobiliaria.Utilities\obj\Debug\netcoreapp3.1\Imobiliaria.Utilities.pdb
